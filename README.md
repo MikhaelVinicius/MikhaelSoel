@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Python, C++ and Java
 - 💬 Ask me about Games and Latin America(Brazil)
-- ⚡ Fun fact: I'm mildly obsessed with Resident Evil
+- ⚡ Fun fact: I'm mildly obsessed with Resident Evil and i have a dog named Gunther 
 
 <div align="center">
   <a href="https://github.com/MikhaelSoel">

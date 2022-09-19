@@ -1,6 +1,6 @@
 ### Hi world!!! I'm Mikhael, welcome to my GitHub👋
 
-- 🌱 I’m currently learning Python, C++ and Kotlin
+- 🌱 I’m currently learning Python, C++ and Java
 - 💬 Ask me about Games and Latin America(Brazil)
 - ⚡ Fun fact: I'm mildly obsessed with Resident Evil and i have a dog named Gunther 
 

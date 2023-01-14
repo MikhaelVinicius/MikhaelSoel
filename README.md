@@ -30,7 +30,6 @@ Futuro Eng. de Software - Universidade de Pernambuco(UPE), 6º Período
 
 
 ![C](https://github-readme-stats.vercel.app/api?username=MikhaelVinicius&theme=blue-green)
-  <br/>
- ![A](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelVinicius&theme=blue-green)
+  
 
 </div>

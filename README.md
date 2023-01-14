@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ![Gif](https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif)
@@ -14,6 +13,7 @@ Futuro Eng. de Software - Universidade de Pernambuco(UPE), 6º Período
    <a href="https://www.linkedin.com/in/mikhael-vin%C3%ADcius-412064178/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
+
 <div > 
 <a><img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
@@ -23,9 +23,19 @@ Futuro Eng. de Software - Universidade de Pernambuco(UPE), 6º Período
 
 </div>
 
+
+
+
+#
+
+- 🌱 Eu tenho práticas e afinidades com Java, Python, um pouco de C++ e JavaScript. Além disso, já trabalhei com Haskell e Kotlin
+- 💬 Me pergunte coisas sobre games, cryptoativos e finanças 
+- ⚡ Fun fact: Eu sou meio obcecado por Resident Evil e tenho um cachorro chamado Gunther
+
 #
 
 <div align="center">
+
 
 
 

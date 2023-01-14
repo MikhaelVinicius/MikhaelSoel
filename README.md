@@ -1,32 +1,12 @@
-### Hi world!!! I'm Mikhael, welcome to my GitHub👋
 
-- 🌱 I’m currently learning Python, C++ and Java
-- 💬 Ask me about Games and Latin America(Brazil)
-- ⚡ Fun fact: I'm mildly obsessed with Resident Evil and i have a dog named Gunther 
-
-
-</div>
- 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Mikha-Apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
-  <img align="center" alt="Mikha-C++" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Mikha-Python" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Mikha-Android" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-  </div>
-    
-  ##
-  
- </div> 
-  <a href="https://instagram.com/mikhael_vini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:mikhaelvini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<a href="https://github.com/MikhaelVinicius">
-<div style="display: inline_block" align="center">  
-<hr>  
- 
-<a href="https://github.com/MikhaelVinicius">
 <div align="center">
- 
+
+![Gif](https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif)
+
+Hello world!
 </div>
- 
- 
+
+#
+Futuro Eng. de Software - Universidade de Pernambuco(UPE), 6º Período
+
+#

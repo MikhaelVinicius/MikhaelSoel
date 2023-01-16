@@ -32,6 +32,8 @@ Futuro Eng. de Software - Universidade de Pernambuco(UPE), 6º Período
 - 💬 Me pergunte coisas sobre games, cryptoativos e finanças 
 - ⚡ Fun fact: Eu sou meio obcecado por Resident Evil e tenho um cachorro chamado Gunther
 
+- 🚨 Meus projetos e repositórios geralmente acompanham o termo "Bayonetta" na nomeação. É puro hábito, normalmente sem relação com o conteúdo
+
 #
 
 <div align="center">

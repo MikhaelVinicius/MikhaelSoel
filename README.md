@@ -31,7 +31,7 @@ Futuro Eng. de Software - Universidade de Pernambuco(UPE), 6º Período
 #
 
 - 🌱 Eu tenho práticas e afinidades com Java, Python, um pouco de C++ e JavaScript. Além disso, já trabalhei com Haskell e Kotlin
-- 💬 Me pergunte coisas sobre games, cryptoativos e finanças 
+- 💬 Me pergunte coisas sobre games, geopolítica e economia 
 - ⚡ Fun fact: Eu sou meio obcecado por Resident Evil e tenho um cachorro chamado Gunther
 
 - 🚨 Meus projetos e repositórios geralmente acompanham o termo "Bayonetta" na nomeação. É puro hábito, normalmente sem relação com o conteúdo

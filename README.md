@@ -30,7 +30,7 @@ Futuro Eng. de Software - Universidade de Pernambuco(UPE), 6º Período
 
 #
 
-- 🌱 Eu tenho práticas e afinidades com Java, Python, um pouco de C++ e JavaScript. Além disso, já trabalhei com Haskell e Kotlin
+- 🌱 Eu tenho práticas e afinidades com Java, Python, Kotlin e JavaScript. Além disso, já trabalhei com Haskell e C++
 - 💬 Me pergunte coisas sobre games, geopolítica e economia 
 - ⚡ Fun fact: Eu sou meio obcecado por Resident Evil e tenho um cachorro chamado Gunther
 
